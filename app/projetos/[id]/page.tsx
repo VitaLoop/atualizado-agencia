@@ -39,10 +39,12 @@ const projectsData = [
     technologies: ["React", "Next.js", "MongoDB", "Stripe API"],
     client: "Academia Fitness",
     date: "Janeiro 2025",
-    link: "https://exemplo.com/academia",
+    link: "https://fitpass.vercel.app/",
     // Aqui você pode adicionar mais imagens para a galeria de cada projeto
     gallery: [
       "https://iili.io/3uchkba.png",
+      "https://iili.io/3uv6R9e.png",
+      "https://iili.io/3uviSun.md.png",
       // Adicione mais URLs de imagens aqui conforme necessário
     ],
   },
